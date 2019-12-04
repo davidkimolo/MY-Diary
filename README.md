@@ -6,6 +6,7 @@ This is an application that can be tracking my daily activities.
 - Have a graphical user interface (GUI)
 - Have a to-do list
 - Have a journal
+- have a pomodoro timer 
 - Have a meetings scheduler 
 - Have a overview dashboard
 - Have a notifications / alerts / reminders 
